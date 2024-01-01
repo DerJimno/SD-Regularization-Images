@@ -15,4 +15,4 @@ If you just want to clone and download a particular folder, then I recommend ins
 
 then use for example:
 
-`ghclone https://github.com/yushan777/SD-Regularization-Images/tree/main/sdxl_person_ddim_1000`
+`ghclone https://github.com/yushan777/SD-Regularization-Images/tree/main/person`
